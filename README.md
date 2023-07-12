@@ -2,8 +2,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<img scr = "./Preview Images/inde.png">
 <b>Website Preview</b>
-<p dir="auto">To view a live example, <strong><a href="https://github.com/MRITUNJAY-SINGHH/Portfolio-Website-/assets/113800395/63dc3c35-1f0b-4ee3-bfea-7a6b11199163" rel="nofollow">click here</a></strong></p>
+<p dir="auto">To view a live example, <strong><a href="./Preview Images/inde.png" rel="nofollow">click here</a></strong></p>
 <hr>
 Features 📋
 <br>
