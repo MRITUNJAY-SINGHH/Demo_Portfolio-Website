@@ -7,7 +7,9 @@
 <p dir="auto">To view a live example,<strong><a href="./Preview Images/inde.png" rel="nofollow">click here</a></strong></p>
 <br>
 <hr>
-<p dir="auto">To view a live example, Portfolio No -2 <strong><a href="./Preview Images/127.0.0.1_5500_index.html(1).png" rel="nofollow">click here</a></strong></p>
+<p dir="auto">To view a live example, Portfolio No -2 <strong><a href="Portfolio-Website/Preview Images
+/127.0.0.1_5500_index.html (1).png
+" rel="nofollow">click here</a></strong></p>
 <hr>
 Features 📋
 <br>
