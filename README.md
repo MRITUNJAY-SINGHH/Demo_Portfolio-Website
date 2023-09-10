@@ -2,13 +2,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<img scr = "./Preview Images/inde.png">
-<b>Website Preview</b>
-<p dir="auto">To view a live example,<strong><a href="./Preview Images/inde.png" rel="nofollow">click here</a></strong></p>
-<br>
-<hr>
-<p dir="auto">To view a live example, Portfolio No -2 <strong><a href="./Preview Images/project_2.png" rel="nofollow">click here</a></strong></p>
-<hr>
+<b>Website Preview no-3</b>
+<p dir="auto">To view a live example, <strong><a href="https://portfoli-3.netlify.app/" rel="nofollow">click here</a></strong></p>
+
 Features 📋
 <br>
 ⚡️ Fully Responsive
